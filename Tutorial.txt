@@ -1,0 +1,12 @@
+// INSTALL
+apt-get install php-cli -y
+apt-get install libssh2-1 php-ssh2 -y
+apt-get install php libapache2-mod-php php-mysql -y
+apt-get install php-cli -y
+apt-get install apache2-utils -y
+apt-get install php-mysql php-curl php-json php-cgi php -y
+apt-get install libssh2 -y
+apt-get install curl libcurl3 libcurl3-dev -y
+apt-get install libssh2–1-dev libssh2–1 -y
+
+I have successfully installed at Ubuntu 16.04 and 18.04 you can try adding other operating systems
